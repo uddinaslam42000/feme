@@ -1,0 +1,7 @@
+# Exclude Sensitive Configuration & User Uploads
+/includes/config.php
+/logs/*
+!/logs/.htaccess
+/uploads/*
+!/uploads/.htaccess
+*.log
